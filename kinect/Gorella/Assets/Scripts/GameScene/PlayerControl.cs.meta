@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 32358cba50faa9f48b86f7971c641958
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - boomScore: {fileID: 2800000, guid: 2fe90fb8a7e54174ba60bece6f166b8e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 3b82532087771854b83f6a0571961ef0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone004
+    100008: //RootNode
+    100010: scar-h
+    100012: scar-h_bol
+    100014: scar-h_fro
+    100016: scar-h_mag
+    100018: scar-h_re0
+    100020: scar-h_rea
+    100022: scar-h_sto
+    100024: scar-h_TA3
+    100026: scar-h_tri
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone004
+    400008: //RootNode
+    400010: scar-h
+    400012: scar-h_bol
+    400014: scar-h_fro
+    400016: scar-h_mag
+    400018: scar-h_re0
+    400020: scar-h_rea
+    400022: scar-h_sto
+    400024: scar-h_TA3
+    400026: scar-h_tri
+    2300000: Bone001
+    2300002: Bone002
+    2300004: Bone003
+    2300006: Bone004
+    2300008: scar-h
+    2300010: //RootNode
+    2300012: scar-h_bol
+    2300014: scar-h_fro
+    2300016: scar-h_mag
+    2300018: scar-h_re0
+    2300020: scar-h_rea
+    2300022: scar-h_sto
+    2300024: scar-h_TA3
+    2300026: scar-h_tri
+    3300000: Bone001
+    3300002: Bone002
+    3300004: Bone003
+    3300006: Bone004
+    3300008: scar-h
+    3300010: //RootNode
+    3300012: scar-h_bol
+    3300014: scar-h_fro
+    3300016: scar-h_mag
+    3300018: scar-h_re0
+    3300020: scar-h_rea
+    3300022: scar-h_sto
+    3300024: scar-h_TA3
+    3300026: scar-h_tri
+    4300000: Bone005
+    4300002: scar-h_sto
+    4300004: scar-h
+    4300006: scar-h_TA3
+    4300008: scar-h_mag
+    4300010: scar-h_bol
+    4300012: scar-h_tri
+    4300014: Bone001
+    4300016: Bone002
+    4300018: scar-h_fro
+    4300020: Bone003
+    4300022: Bone004
+    4300024: scar-h_rea
+    4300026: scar-h_re0
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
